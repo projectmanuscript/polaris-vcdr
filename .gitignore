@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/
+*.pt
+*.pth
+*.npy
+*.npz
+# datasets live in the data root, not in the repository
+RIGA/
+DRIONS-DB/
+raw/
+preprocessed_data*/
+processed_data*/
+training_targets_v2/
+yolo_data/
